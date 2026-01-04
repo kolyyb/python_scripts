@@ -4,9 +4,11 @@
 
 Le **WIP Manager Ultimate** est un add-on pour Blender conçu pour rationaliser le début et le suivi de vos WIP 3D. Fini les fichiers `.blend` éparpillés et les dossiers manuels ! Cet outil vous permet de générer instantanément une structure de projet complète et de suivre votre progression directement dans l'interface de Blender.
 
+Le **Project Creator** est un add-on pour Blender conçu pour générer une arborécence de dossiers de travail
+
 ---
 
-## 🚀 Fonctionnalités Clés
+## 🚀 Fonctionnalités Clés de WIP Manager Ultimate
 
 Cet add-on se trouve dans la **Sidebar (panneau N)** de la vue 3D, sous l'onglet **WIP**.
 
