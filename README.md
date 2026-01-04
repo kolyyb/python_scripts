@@ -43,6 +43,7 @@ Ne perdez jamais le fil de votre travail avec la To-Do List persistante (les cas
 3.  Cliquez sur `Install...` et sélectionnez le fichier `wip_manager.py`.
 4.  Cochez la case pour activer l'add-on **"WIP Manager Ultimate"**.
 5.  Le panneau apparaît dans la **Sidebar (N)**, sous l'onglet **WIP**.
+6. /!\  ATTENTION : il faut cliquer sur le bouton "Générer & Sauver" APRES avoir renseigner tous les champs (Informations, Suivi & références, status...)  /!\
 
 ---
 
@@ -58,7 +59,7 @@ Ne perdez jamais le fil de votre travail avec la To-Do List persistante (les cas
 
 ## 🐛 Remarques Techniques
 
-* **Version Blender Recommandée :** 3.0+
+* **Version Blender Recommandée :** 3.0 <> 5.0
 * Le script utilise des icônes standard pour assurer la compatibilité sur différentes versions.
 
 ---
