@@ -63,9 +63,9 @@ Ne perdez jamais le fil de votre travail avec la To-Do List persistante (les cas
 
 | Project Creator |
 | :------------------: |
-| <img src="pc1.png" alt="Capture d'écran du plugin Project Creator dans Blender" width="300"/> |
-| <img src="pc2.png" alt="Capture d'écran du plugin Project Creator dans Blender" width="300"/> |
-| <img src="arbo" alt="Capture d'écran de l'arborecence générée" width="300"/> |
+| <img src="pc1.png" alt="Capture d'écran du plugin Project Creator dans Blender" width="500"/> |
+| <img src="pc2.png" alt="Capture d'écran du plugin Project Creator dans Blender" width="500"/> |
+| <img src="arbo.png" alt="Capture d'écran de l'arborecence générée" width="300"/> |
 
 ---
 
