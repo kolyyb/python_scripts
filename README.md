@@ -1,4 +1,4 @@
-# WIP Manager Ultimate (v3.5)
+# WIP Manager Ultimate (v3.5) / Project Creator (v2.5)
 
 ## 🚧 Gestion de Projet 3D pour Blender
 
@@ -38,12 +38,14 @@ Ne perdez jamais le fil de votre travail avec la To-Do List persistante (les cas
 
 ## 🛠️ Installation
 
-1.  Téléchargez le fichier `wip_manager.py`.
+1.  Téléchargez le fichier `wip_manager.py` ou `project_creator.py`
 2.  Dans Blender, allez dans `Edit > Preferences > Add-ons`.
-3.  Cliquez sur `Install...` et sélectionnez le fichier `wip_manager.py`.
-4.  Cochez la case pour activer l'add-on **"WIP Manager Ultimate"**.
-5.  Le panneau apparaît dans la **Sidebar (N)**, sous l'onglet **WIP**.
-6. /!\  ATTENTION : il faut cliquer sur le bouton "Générer & Sauver" APRES avoir renseigner tous les champs (Informations, Suivi & références, status...)  /!\
+3.  Cliquez sur `Install from disk...` et sélectionnez le fichier `wip_manager.py` ou `project_creator.py`.
+4.  Cochez la case pour activer l'add-on **"WIP Manager Ultimate"** ou **"Project Creator"**.
+5.  pour le plugin **"WIP Manager Ultimate"**, le panneau apparaît dans la **Sidebar (N)**, sous l'onglet **WIP**.
+6. Pour le plugin **"Project Creator"** il faut cliquer sur File > new > Nouveau projet structuré
+
+7. /!\  ATTENTION : pour le plugin **"WIP Manager Ultimate"** il faut cliquer sur le bouton "Générer & Sauver" APRES avoir renseigner tous les champs (Informations, Suivi & références, status...)  /!\
 
 ---
 
@@ -53,17 +55,33 @@ Ne perdez jamais le fil de votre travail avec la To-Do List persistante (les cas
 | :------------------: |
 | <img src="uwm.png" alt="Capture d'écran du plugin WIP Manager dans Blender" width="300"/> |
 
-*(**Note :** Veuillez télécharger l'image `Capture d'écran 2026-01-04 173751.png` dans votre dépôt et vous assurer que le lien ci-dessus est correct pour qu'elle s'affiche sur GitHub.)*
+---
+
+## 📸 Aperçu
+
+| Project Creator |
+| :------------------: |
+| <img src="pc1.png" alt="Capture d'écran du plugin Project Creator dans Blender" width="300"/> |
+| <img src="pc2.png" alt="Capture d'écran du plugin Project Creator dans Blender" width="300"/> |
+| <img src="arbo" alt="Capture d'écran de l'arborecence générée" width="300"/> |
+
+---
+
+## 📸 Aperçu
+
+| Pour les 2 plugins, voici l'arborecence générée |
+| :------------------: |
+| <img src="arbo.png" alt="Capture d'écran de l'arborécence crée dans le disque choisi" width="300"/> |
 
 ---
 
 ## 🐛 Remarques Techniques
 
-* **Version Blender Recommandée :** 3.0 <> 5.0
-* Le script utilise des icônes standard pour assurer la compatibilité sur différentes versions.
+* **Version Blender Recommandée :** 4.0 <> 5.0
+* Les scripts utilisent des icônes standard pour assurer la compatibilité sur différentes versions.
 
 ---
 
 ## 💖 Contribution
 
-N'hésitez pas à proposer des améliorations, des corrections de bugs ou des idées de nouvelles fonctionnalités via les Issues ou les Pull Requests !
+N'hésitez pas à me proposer des améliorations, des corrections de bugs ou des idées de nouvelles fonctionnalités via les Issues ou les Pull Requests !
