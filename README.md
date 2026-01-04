@@ -50,7 +50,7 @@ Ne perdez jamais le fil de votre travail avec la To-Do List persistante (les cas
 
 | WIP Manager Ultimate |
 | :------------------: |
-| <img src="Capture d'écran 2026-01-04 173751.png" alt="Capture d'écran du plugin WIP Manager dans Blender" width="300"/> |
+| <img src="uwm.png" alt="Capture d'écran du plugin WIP Manager dans Blender" width="300"/> |
 
 *(**Note :** Veuillez télécharger l'image `Capture d'écran 2026-01-04 173751.png` dans votre dépôt et vous assurer que le lien ci-dessus est correct pour qu'elle s'affiche sur GitHub.)*
 
